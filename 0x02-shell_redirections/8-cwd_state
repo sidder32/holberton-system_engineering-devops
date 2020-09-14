@@ -1,2 +1,2 @@
-#!:bin/bash
+#!/ybin/bash
 ls -la > ls -cwd_content
